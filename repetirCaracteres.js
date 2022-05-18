@@ -1,0 +1,3 @@
+with(document){
+    write('hello')
+}
